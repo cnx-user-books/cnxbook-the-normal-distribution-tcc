@@ -1,0 +1,785 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="homework">
+  <title>8.6 Normal Distribution: Homework TCC</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65542</md:content-id>
+  <md:title>8.6 Normal Distribution: Homework TCC</md:title>
+  <md:abstract/>
+  <md:uuid>501e372a-c4b8-4d90-b225-57a9c15c1f66</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="The Normal Distribution.doc" strength="3">Download handout (.doc)</link>
+      <link url="The Normal Distribution.pdf" strength="3">Download handout (.pdf)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <exercise id="element-460"><problem id="id20593649">
+  <para id="element-232">According to a study done by De Anza students, the height for Asian adult males is normally distributed with an average of 66 inches and a standard deviation of 2.5 inches.  Suppose one Asian adult male is randomly chosen.  Let 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>X</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>height of the individual.
+    
+  </para><list id="element-602" list-type="labeled-item" mark-suffix="."><item><label>a</label>
+		<m:math><m:mi>X</m:mi>
+</m:math>~<m:math><m:mtext>_______</m:mtext>
+<m:mtext>(_______,_______)</m:mtext></m:math>	</item>
+	<item><label>b</label> Find the probability that the person is between 65 and 69 inches.  Include a sketch of the graph and write a probability statement.</item>
+	<item><label>c</label> Would you expect to meet many Asian adult males over 72 inches?  Explain why or why not, and justify your answer numerically.</item>
+	<item><label>d</label> The middle 40% of heights fall between what two values?  Sketch the graph and write the probability statement.</item></list>
+</problem>
+
+<solution id="id11446433">
+  <list id="element-18" list-type="labeled-item" mark-suffix="."><item><label>a</label> <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+           
+                  <m:mi>N</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mtext>66</m:mtext>
+                  <m:mi>,</m:mi>
+                  <m:mn>2.5</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X "~" N \( "21",7 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math></item>
+<item><label>b</label>0.5404</item>
+<item><label>c</label>No</item>
+<item><label>d</label>Between 64.7 and 67.3 inches</item></list>
+</solution>
+</exercise><exercise id="element-443"><problem id="id21466710">
+  <para id="element-861">IQ is normally distributed with a mean of 100 and a standard deviation of 15.  Suppose one individual is randomly chosen.  Let 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>X</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>IQ of an individual.
+    </para><list id="element-932" list-type="labeled-item" mark-suffix="."><item><label>a</label>
+		<m:math><m:mi>X</m:mi>
+		</m:math>~<m:math><m:mtext>_______</m:mtext>
+			<m:mtext>(_______,_______)</m:mtext></m:math>
+	</item>
+	<item><label>b</label> Find the probability that the person has an IQ greater than 120. Include a sketch of the graph and write a probability statement.</item>
+	<item><label>c</label> Mensa is an organization whose members have the top 2% of all IQs.  Find the minimum IQ needed to qualify for the Mensa organization.  Sketch the graph and write the probability statement.</item>
+	<item><label>d</label> The middle 50% of IQs fall between what two values?  Sketch the graph and write the probability statement.</item></list>
+</problem>
+
+
+</exercise><exercise id="element-817"><problem id="id25415343">
+  <para id="element-811">
+    The percent of fat calories that a person in America consumes each day is normally distributed with a mean of about 36 and a standard deviation of 10.  Suppose that one individual is randomly chosen.      
+Let 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>X</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>percent of fat calories.
+    
+
+  </para><list id="element-993" list-type="labeled-item" mark-suffix="."><item><label>a</label>
+		<m:math><m:mi>X</m:mi>
+		</m:math>~<m:math><m:mtext>_______</m:mtext>
+			<m:mtext>(_______,_______)</m:mtext></m:math>
+	</item>
+	<item><label>b</label> Find the probability that the percent of fat calories a person consumes is more than 40.  Graph the situation.  Shade in the area to be determined.</item>
+	<item><label>c</label> Find the maximum number for the lower quarter of percent of fat calories. Sketch the graph and write the probability statement.</item>
+</list>
+</problem>
+
+<solution id="id13818296">
+  <list id="element-412" list-type="labeled-item" mark-suffix="."><item><label>a</label> 
+   <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  
+                  <m:mi>N</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>36</m:mn>
+                  <m:mtext>,</m:mtext>
+                  <m:mn>10</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X "~" N \( 3,1 "." 5 "."  \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>b</label> 
+     0.3446
+
+</item>
+
+
+<item><label>c</label> 
+29.3 </item>
+
+</list>
+</solution>
+</exercise><exercise id="element-12"><problem id="id18000241">
+  <para id="element-313">
+ Suppose that the distance of fly balls hit to the outfield (in baseball) is normally distributed with a mean of 250 feet and a standard deviation of 50 feet.
+  </para><list id="element-107" list-type="labeled-item" mark-suffix="."><item><label>a</label> If 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation></m:semantics></m:math> distance in feet for a fly ball, then 
+<m:math><m:mi>X</m:mi>
+		</m:math>~<m:math><m:mtext>_______</m:mtext>
+			<m:mtext>(_______,_______)</m:mtext></m:math>
+</item>
+	<item><label>b</label> If one fly ball is randomly chosen from this distribution, what is the probability that this ball traveled fewer than 220 feet?  Sketch the graph.  Scale the horizontal axis X.  Shade the region corresponding to the probability.  Find the probability.</item>
+	<item><label>c</label> Find the 80th percentile of the distribution of fly balls.  Sketch the graph and write the probability statement.</item>
+</list>
+</problem>
+
+
+</exercise><exercise id="element-789"><problem id="id16003321">
+  <para id="element-842">
+In China, 4-year-olds average 3 hours a day unsupervised.  Most of the unsupervised children live in rural areas, considered safe.  Suppose that the standard deviation is 1.5 hours and the amount of time spent alone is normally distributed.  We randomly survey one Chinese 4-year-old living in a rural area. We are interested in the amount of time the child spends alone per day.  (Source:  <emphasis>San Jose Mercury News</emphasis>)
+  </para><list id="element-265" list-type="labeled-item" mark-suffix="."><item><label>a</label> In words, define the random variable 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math>. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation></m:semantics></m:math></item>
+	<item><label>b</label>
+		<m:math><m:mi>X</m:mi></m:math>~	</item>
+	<item><label>c</label> Find the probability that the child spends less than 1 hour per day unsupervised. Sketch the graph and write the probability statement.</item>
+	<item><label>d</label> What percent of the children spend over 10 hours per day unsupervised?</item>
+	<item><label>e</label> 70% of the children spend at least how long per day unsupervised?</item>
+</list>
+</problem>
+
+<solution id="id7849513">
+  <list id="element-760" list-type="labeled-item" mark-suffix="."><item><label>a</label>  the time (in hours) a 4-year-old in China spends unsupervised per day</item>
+<item><label>b</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  
+                  <m:mi>N</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>3,1</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mn>5</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X "~" N \( 3,1 "." 5 "."  \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>c</label> 
+      0.0912
+    </item>
+
+<item><label>d</label> 
+      0
+    </item>
+<item><label>e</label> 2.21 hours</item></list>
+</solution>
+</exercise><exercise id="element-217"><problem id="id19993022">
+  <para id="element-366">
+In the 1992 presidential election, Alaska’s 40 election districts averaged 1956.8 votes per district for President Clinton.  The standard deviation was  572.3.  (There are only 40 election districts in Alaska.)  The distribution of the votes per district for President Clinton was bell-shaped.  Let 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>X</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    number of votes for President Clinton for an election district.  (Source:  <emphasis>The World Almanac and Book of Facts</emphasis>)
+  </para><list id="element-780" list-type="labeled-item" mark-suffix="."><item><label>a</label> State the approximate distribution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math>. 
+<m:math><m:mi>X</m:mi></m:math>~</item>
+	<item><label>b</label> Is 1956.8 a population mean or a sample mean?  How do you know?</item>
+	<item><label>c</label> Find the probability that a randomly selected district had fewer than 1600 votes for President Clinton. Sketch the graph and write the probability statement.</item>
+	<item><label>d</label> Find the probability that a randomly selected district had between 1800 and 2000 votes for President Clinton.</item>
+	<item><label>e</label> Find the third quartile for votes for President Clinton.</item>
+</list>
+</problem>
+
+</exercise><exercise id="element-295"><problem id="id18019640">
+  <para id="element-883">
+ Suppose that the duration of a particular type of criminal trial is known to be normally distributed with a mean of 21 days and a standard deviation of  7 days.
+  </para><list id="element-720" list-type="labeled-item" mark-suffix="."><item><label>a</label> In words, define the random variable 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math>. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation></m:semantics></m:math></item>
+	<item><label>b</label>
+		<m:math>
+<m:mi>X</m:mi>
+</m:math>~	</item>
+	<item><label>c</label> If one of the trials is randomly chosen, find the probability that it lasted at least 24 days. Sketch the graph and write the probability statement.</item>
+	<item><label>d</label> 60% of all of these types of trials are completed within how many days?</item></list>
+</problem>
+
+<solution id="id20218475">
+  <list id="element-705" list-type="labeled-item" mark-suffix="."><item><label>a</label>The duration of a criminal trial</item>
+<item><label>b</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    
+                    <m:mi>N</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mtext>21</m:mtext>
+                  <m:mi>,</m:mi>
+                  <m:mn>7</m:mn>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X=N \( "21",7 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>c</label> 
+     
+     0.3341
+    </item>
+<item><label>d</label> 22.77</item></list>
+</solution>
+</exercise><exercise id="element-148"><problem id="id24511113">
+  <para id="element-695">
+Terri Vogel, an amateur motorcycle racer, averages 129.71 seconds per 2.5 mile lap (in a 7 lap race) with a standard deviation of 2.28 seconds . The distribution of her race times is normally distributed.  We are interested in one of her randomly selected laps.  (Source:  log book of Terri Vogel)
+  </para><list id="element-598" list-type="labeled-item" mark-suffix="."><item><label>a</label> In words, define the random variable 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math>. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation></m:semantics></m:math></item>
+	<item><label>b</label>
+		<m:math><m:mi>X</m:mi></m:math>~	</item>
+	<item><label>c</label> Find the percent of her laps that are completed in less than 130 seconds.</item>
+	<item><label>d</label> The fastest 3% of her laps are under _______ .</item>
+	<item><label>e</label> The middle 80% of her laps are from _______ seconds to _______ seconds.</item>
+</list>
+</problem>
+
+</exercise><exercise id="element-512"><problem id="id3458007">
+  <para id="element-20">
+ Thuy Dau, Ngoc Bui, Sam Su, and Lan Voung conducted a survey as to how long customers at Lucky claimed to wait in the checkout line until their turn.  Let 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>X</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>time in line.  Below are the ordered real data (in minutes):
+    
+  </para><table id="element-694" summary="This table presents raw data in 50 cells.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>0.50</entry>
+            <entry>4.25</entry>
+            <entry>5</entry>
+            <entry>6</entry>
+            <entry>7.25</entry>
+          </row>
+          <row>
+            <entry>1.75</entry>
+            <entry>4.25</entry>
+            <entry>5.25</entry>
+            <entry>6</entry>
+            <entry>7.25</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>4.25</entry>
+            <entry>5.25</entry>
+            <entry>6.25</entry>
+            <entry>7.25</entry>
+          </row>
+          <row>
+            <entry>2.25</entry>
+            <entry>4.25</entry>
+            <entry>5.5</entry>
+            <entry>6.25</entry>
+            <entry>7.75</entry>
+          </row>
+          <row>
+            <entry>2.25</entry>
+            <entry>4.5</entry>
+            <entry>5.5</entry>
+            <entry>6.5</entry>
+            <entry>8</entry>
+          </row>
+          <row>
+            <entry>2.5</entry>
+            <entry>4.75</entry>
+            <entry>5.5</entry>
+            <entry>6.5</entry>
+            <entry>8.25</entry>
+          </row>
+          <row>
+            <entry>2.75</entry>
+            <entry>4.75</entry>
+            <entry>5.75</entry>
+            <entry>6.5</entry>
+            <entry>9.5</entry>
+          </row>
+          <row>
+            <entry>3.25</entry>
+            <entry>4.75</entry>
+            <entry>5.75</entry>
+            <entry>6.75</entry>
+            <entry>9.5</entry>
+          </row>
+          <row>
+            <entry>3.75</entry>
+            <entry>5</entry>
+            <entry>6</entry>
+            <entry>6.75</entry>
+            <entry>9.75</entry>
+          </row>
+          <row>
+            <entry>3.75</entry>
+            <entry>5</entry>
+            <entry>6</entry>
+            <entry>6.75</entry>
+            <entry>10.75</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><list id="element-403" list-type="labeled-item" mark-suffix="."><item><label>a</label> Calculate the sample mean and the sample standard deviation.</item>
+	<item><label>b</label> Construct a histogram. Start the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>axis</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x -  ital "axis"} {}</m:annotation></m:semantics></m:math> at 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>375</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 0 "." "375"} {}</m:annotation></m:semantics></m:math> and make bar widths of 2 minutes.</item>
+	<item><label>c</label> Draw a smooth curve through the midpoints of the tops of the bars.</item>
+	<item><label>d</label> In words, describe the shape of your histogram and smooth curve.</item>
+	<item><label>e</label> Let the sample mean approximate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math> and the sample standard deviation approximate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>σ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{σ} {}</m:annotation></m:semantics></m:math>. The distribution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math> can then be approximated by 
+<m:math><m:mi>X</m:mi></m:math>~</item>
+	<item><label>f</label> Use the distribution in (e) to calculate the probability that a person will wait fewer than 6.1 minutes.</item>
+	<item><label>g</label> Determine the cumulative relative frequency for waiting less than 6.1 minutes.</item>
+	<item><label>h</label> Why aren’t the answers to (f) and (g) exactly the same?</item>
+	<item><label>i</label> Why are the answers to (f) and (g) as close as they are?</item>
+	<item><label>j</label> If only 10 customers were surveyed instead of 50, do you think the answers to (f) and (g) would have been closer together or farther apart?  Explain your conclusion.</item>
+</list>
+</problem>
+
+<solution id="id23136376">
+  <list id="element-545" list-type="labeled-item" mark-suffix="."><item><label>a</label> The sample mean is 5.51 and the sample standard deviation is 2.15</item>
+
+<item><label>e</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+
+                  <m:mi>N</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>51</m:mtext>
+                  <m:mi>,</m:mi>
+                  <m:mn>2</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>15</m:mtext>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X "~" N \( 5 "." "51",2 "." "15" \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>f</label> 
+     0.6081
+    </item>
+<item><label>g</label> 
+     0.64
+    </item>
+</list>
+</solution>
+</exercise><exercise id="element-56"><problem id="id14371352">
+  <para id="element-897">
+Suppose that Ricardo and Anita attend different colleges.  Ricardo’s GPA is the same as the average GPA at his school.  Anita’s GPA is 0.70 standard deviations above her school average. In complete sentences, explain why each of the following statements may be false.
+  </para><list id="element-264" list-type="labeled-item" mark-suffix="."><item><label>a</label> Ricardo’s actual GPA is lower than Anita’s actual GPA.</item>
+<item><label>b</label> Ricardo is not passing since his z-score is zero.</item>
+<item><label>c</label> Anita is in the 70th percentile of students at her college.</item>
+
+</list>
+</problem>
+
+</exercise><exercise id="element-122"><problem id="id20765694">
+  <para id="element-557">Below is a sample of the maximum capacity (maximum number of spectators) of sports stadiums.  The table does not include horse racing or motor racing stadiums.  (Source:  <emphasis>http://en.wikipedia.org/wiki/List_of_stadiums_by_capacity</emphasis>)
+  </para><table id="element-666" summary="The table is a sample of the capacity of 60 sports stadiums ordered by the maximum number of spectators. Horse racing and motor racing stadiums are not included.">
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <tbody>
+          <row>
+            <entry>40,000</entry>
+            <entry>40,000</entry>
+            <entry>45,050</entry>
+            <entry>45,500</entry>
+            <entry>46,249</entry>
+            <entry>48,134</entry>
+  </row>
+          <row>
+            <entry>49,133</entry>
+            <entry>50,071</entry>
+            <entry>50,096</entry>
+            <entry>50,466</entry>
+            <entry>50,832</entry>
+            <entry>51,100</entry>
+  </row>
+          <row>
+            <entry>51,500</entry>
+            <entry>51,900</entry>
+            <entry>52,000</entry>
+            <entry>52,132</entry>
+            <entry>52,200</entry>
+            <entry>52,530</entry>
+  </row>
+          <row>
+            <entry>52,692</entry>
+            <entry>53,864</entry>
+            <entry>54,000</entry>
+            <entry>55,000</entry>
+            <entry>55,000</entry>
+            <entry>55,000</entry>
+  </row>
+          <row>
+            <entry>55,000</entry>
+            <entry>55,000</entry>
+            <entry>55,000</entry>
+            <entry>55,082</entry>
+            <entry>57,000</entry>
+            <entry>58,008</entry>
+  </row>
+          <row>
+            <entry>59,680</entry>
+            <entry>60,000</entry>
+            <entry>60,000</entry>
+            <entry>60,492</entry>
+            <entry>60,580</entry>
+            <entry>62,380</entry>
+  </row>
+          <row>
+            <entry>62,872</entry>
+            <entry>64,035</entry>
+            <entry>65,000</entry>
+            <entry>65,050</entry>
+            <entry>65,647</entry>
+            <entry>66,000</entry>
+  </row>
+          <row>
+            <entry>66,161</entry>
+            <entry>67,428</entry>
+            <entry>68,349</entry>
+            <entry>68,976</entry>
+            <entry>69,372</entry>
+            <entry>70,107</entry>
+  </row>
+          <row>
+            <entry>70,585</entry>
+            <entry>71,594</entry>
+            <entry>72,000</entry>
+            <entry>72,922</entry>
+            <entry>73,379</entry>
+            <entry>74,500</entry>
+  </row>
+          <row>
+            <entry>75,025</entry>
+            <entry>76,212</entry>
+            <entry>78,000</entry>
+            <entry>80,000</entry>
+            <entry>80,000</entry>
+            <entry>82,300</entry>
+  </row>
+        </tbody>
+      
+
+
+
+
+
+</tgroup>
+</table>
+
+<list id="element-422" mark-suffix="." list-type="labeled-item"><item><label>a</label> Calculate the sample mean and the sample standard deviation for the maximum capacity of sports stadiums (the data).</item>
+	<item><label>b</label> Construct a histogram of the data.</item>
+	<item><label>c</label> Draw a smooth curve through the midpoints of the tops of the bars of the histogram.</item>
+	<item><label>d</label> In words, describe the shape of your histogram and smooth curve.</item>
+	<item><label>e</label> Let the sample mean approximate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math> and the sample standard deviation approximate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>σ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{σ} {}</m:annotation></m:semantics></m:math>. The distribution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math> can then be approximated by 
+<m:math><m:mi>X</m:mi></m:math>~</item>
+	<item><label>f</label> Use the distribution in (e) to calculate the probability that the maximum capacity of sports stadiums is less than 67,000 spectators.</item>
+	<item><label>g</label> Determine the cumulative relative frequency that the maximum capacity of sports stadiums is less than 67,000 spectators.  Hint: Order the data and count the sports stadiums that have a maximum capacity less than 67,000.  Divide by the total number of sports stadiums in the sample.</item>
+	<item><label>h</label> Why aren’t the answers to (f) and (g) exactly the same?</item>
+	
+</list>
+</problem>
+
+<solution id="id15324926">
+  <list id="element-768" mark-suffix="." list-type="labeled-item"><item><label>a</label> The sample mean is 60,136.4 and the sample standard deviation is 10,468.1.
+     
+    </item>
+
+<item><label>e</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>N</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mn>60136</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>4</m:mtext>
+                  <m:mi>,</m:mi>
+                  <m:mn>10468</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>1</m:mtext>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>f</label> 
+     0.7440
+    </item>
+<item><label>g</label> 
+     0.7167
+    </item>
+
+
+</list>
+</solution>
+</exercise><section id="element-494"><title>Try These Multiple Choice Questions</title>
+<para id="element-970"><emphasis>The questions below refer to the following: </emphasis> The patient recovery time from a particular surgical procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.</para><exercise id="element-805"><problem id="id4618226">
+  <para id="element-689">
+   What is the median recovery time?
+  </para><list id="element-423" list-type="labeled-item" mark-suffix="."><item><label>A</label>    2.7	</item> <item><label>B</label>	    5.3		</item><item><label>C</label> 7.4			</item> <item><label>D</label>    2.1</item></list>
+</problem>
+
+<solution id="id16783742">
+  <para id="element-748">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-441"><problem id="id22030281">
+  <para id="element-913">
+  What is the z-score for a patient who takes 10 days to recover?
+  </para><list id="element-23" list-type="labeled-item" mark-suffix="."><item><label>A</label>    1.5	</item> 
+<item><label>B</label>	    0.2		</item>
+<item><label>C</label> 2.2			</item> 
+<item><label>D</label>    7.3</item>
+
+</list>
+</problem>
+
+<solution id="id21359939">
+  <para id="element-415">
+C
+  </para>
+</solution>
+</exercise><exercise id="element-564"><problem id="id3435957">
+  <para id="element-6">What is the probability of spending more than 2 days in recovery?</para>
+<list id="yep" list-type="labeled-item" mark-suffix="."><item><label>A</label>     0.0580		</item> 
+<item><label>B</label>	    0.8447		</item>
+<item><label>C</label> 0.0553				</item> 
+<item><label>D</label>     0.9420</item>
+</list>
+
+
+</problem>
+
+<solution id="id12741946">
+  <para id="element-646">
+   D
+  </para>
+</solution>
+</exercise><exercise id="element-22"><problem id="id17871945">
+  <para id="element-160">The 90th percentile for recovery times is?</para>
+<list id="yop" list-type="labeled-item" mark-suffix="."><item><label>A</label>       8.89			</item> 
+<item><label>B</label>	    7.07		</item>
+<item><label>C</label>  7.99				</item> 
+<item><label>D</label>     4.32</item>
+</list>
+
+
+</problem>
+
+<solution id="id10286094">
+  <para id="element-553">
+   C
+  </para>
+</solution>
+</exercise><para id="element-551"><emphasis>The questions below refer to the following:</emphasis> The length of time to find a parking space at 9 A.M. follows a normal distribution with a mean of 5 minutes and a standard deviation of 2 minutes.</para><exercise id="element-775"><problem id="id20620841">
+  <para id="element-349">
+  Based upon the above information and numerically justified, would you be surprised if it took less than 1 minute to find a parking space?
+  </para>
+<list id="yap" list-type="labeled-item" mark-suffix="."><item><label>A</label>       Yes</item> 
+<item><label>B</label>	    No	</item>
+<item><label>C</label>  Unable to determine			</item> 
+
+</list>
+</problem>
+
+<solution id="id15290500">
+  <para id="element-245">A
+
+  </para>
+</solution>
+</exercise><exercise id="element-19"><problem id="id4498978">
+  <para id="element-560">
+Find the probability that it takes at least 8 minutes to find a parking space.
+  </para><list id="element-298" list-type="labeled-item" mark-suffix="."><item><label>A</label> 0.0001	</item>
+<item><label>B</label> 0.9270	</item>
+<item><label>C</label> 0.1862</item>
+<item><label>D</label>  0.0668</item>
+</list>
+</problem>
+
+<solution id="id9734192">
+  <para id="element-481">
+   D
+  </para>
+</solution>
+</exercise><exercise id="element-523"><problem id="id25388640">
+  <para id="element-930">
+ Seventy percent of the time, it takes more than how many minutes to find a parking space?
+  </para><list id="element-143" list-type="labeled-item" mark-suffix="."><item><label>A</label> 1.24	</item>
+<item><label>B</label>  2.41 </item>
+<item><label>C</label> 3.95	</item>
+<item><label>D</label>  6.05</item>
+
+</list>
+</problem>
+
+<solution id="id16763246">
+  <para id="element-722">
+  C
+  </para>
+</solution>
+</exercise><exercise id="element-188"><problem id="id4950724">
+  <para id="element-571">
+   If the mean is significantly greater than the standard deviation, which of the following statements is true?
+<list id="next" list-type="labeled-item" mark-suffix="."><item><label>I </label>The data cannot follow the uniform distribution.</item>
+<item><label>II </label> The data cannot follow the exponential distribution..</item>
+<item><label>III </label> The data cannot follow the normal distribution.</item>
+</list>
+  </para><list id="element-390" list-type="labeled-item" mark-suffix="."><item><label>A</label> I only	</item>
+<item><label>B</label> II only	</item>
+<item><label>C</label> III only	</item>
+<item><label>D</label> I, II, and III</item>
+
+
+</list>
+</problem>
+
+<solution id="id21400389">
+  <para id="element-969">B
+  </para>
+</solution>
+</exercise> 
+</section>  
+  </content>
+  
+</document>

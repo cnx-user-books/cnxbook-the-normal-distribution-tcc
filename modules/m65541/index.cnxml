@@ -1,0 +1,209 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="practice">
+  <title>8.5 Normal Distribution: Practice TCC</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65541</md:content-id>
+  <md:title>8.5 Normal Distribution: Practice TCC</md:title>
+  <md:abstract/>
+  <md:uuid>2016c1d1-3cb6-484c-88d8-8bfcf9206414</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="chap 6 practice.doc" strength="3">Download handout (.doc)</link>
+      <link url="chap 6 practice.pdf" strength="3">Download handout (.pdf)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="element-729"><title>Student Learning Outcomes</title><list id="list-2356124" list-type="bulleted"><item>
+The student will analyze data following a normal distribution.</item>
+</list></section><section id="element-459"><title>Given</title>
+<para id="element-669">
+The life of Sunshine CD players is normally distributed with a mean of 4.1 years and a standard deviation of 1.3 years. A CD player is guaranteed for 3 years. We are interested in the length of time a CD player lasts.
+</para></section><section id="element-983"><title>Normal Distribution</title>
+<exercise id="element-717"><problem id="id44035268">
+  <para id="element-120">Define the Random Variable 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mi>X</m:mi>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+     in words.  
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>X</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{X={}} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    
+  </para>
+</problem>
+
+
+</exercise><exercise id="element-589"><problem id="id43993966">
+  <para id="element-427"><m:math>
+<m:mi>X</m:mi>
+</m:math>~</para>
+</problem>
+
+
+</exercise><exercise id="element-942"><problem id="id44370927">
+  <para id="element-390">
+Find the probability that a CD player will break down during the guarantee period.
+  </para><list id="element-652" mark-suffix="." list-type="labeled-item"><item><label>a</label> Sketch the situation. Label and scale the axes. Shade the region corresponding to the probability.
+
+<figure id="fig1"><media id="id43849343" alt="Empty normal distribution curve."><image src="../../media/3a.png" mime-type="image/png" print-width="3in"/></media></figure></item>
+<item><label>b</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo stretchy="false">&lt;</m:mo>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mo stretchy="false">&lt;</m:mo>
+                    <m:mtext>_________</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>_________</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{P \( 0&lt;x&lt;"_________" \) ="_________"} {}</m:annotation>
+        </m:semantics>
+      </m:math> (Use zero (0) for the minimum value of x.)
+    </item></list></problem>
+
+<solution id="id44028319">
+  <list id="element-226" list-type="labeled-item" mark-suffix="."><item><label>b</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>3,0</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>1979</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3,0 "." "1979"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item></list>
+</solution>
+</exercise><exercise id="element-893"><problem id="id44542589">
+  <para id="element-441">
+    Find the probability that a CD player will last between 2.8 and 6 years.
+  </para>
+<list id="element-654" mark-suffix="." list-type="labeled-item"><item><label>a</label> Sketch the situation. Label and scale the axes. Shade the region corresponding to the probability.
+<figure id="fig-231"><media id="id44444856" alt="Empty normal distribution curve."><image src="../../media/3a.png" mime-type="image/png" print-width="3in"/></media></figure></item>
+<item><label>b</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>_______</m:mtext>
+                      <m:mo stretchy="false">&lt;</m:mo>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mo stretchy="false">&lt;</m:mo>
+                    <m:mtext>_______</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>_________</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{P \( "_______"&lt;X&lt;"_______" \) ="_________"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item></list></problem>
+
+<solution id="id44443502">
+  <list id="element-671" list-type="labeled-item" mark-suffix="."><item><label>b</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mn>8,6,0</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>7694</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 "." 8,6,0 "." "7694"} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item></list>
+</solution>
+</exercise><exercise id="element-889"><problem id="id44024075">
+  <para id="element-528">
+Find the 70th percentile of the distribution for the time a CD player lasts.
+  </para>
+<list id="element-664" mark-suffix="." list-type="labeled-item"><item><label>a</label> Sketch the situation. Label and scale the axes. Shade the region corresponding to the lower 70%.
+
+<figure id="fig-241552"><media id="id44403356" alt="Empty normal distribution curve."><image src="../../media/3a.png" mime-type="image/png" print-width="3in"/></media></figure></item>
+<item><label>b</label> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mi>k</m:mi></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mtext>_________</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( x&lt;k \) ="_________"} {}</m:annotation></m:semantics></m:math>. Therefore, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>__________</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k="__________"} {}</m:annotation></m:semantics></m:math>.</item></list></problem>
+
+<solution id="id44002181">
+  <list id="element-494" list-type="labeled-item" mark-suffix="."><item><label>b</label> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>70</m:mtext><m:mi>,</m:mi><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mtext>78</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "70",4 "." "78"} {}</m:annotation></m:semantics></m:math>years</item></list>
+</solution>
+</exercise></section>   
+  </content>
+  
+</document>

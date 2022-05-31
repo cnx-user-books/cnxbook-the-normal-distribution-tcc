@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>8.1 Normal Distribution: Introduction TCC</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65537</md:content-id>
+  <md:title>8.1 Normal Distribution: Introduction TCC</md:title>
+  <md:abstract/>
+  <md:uuid>d37abcbd-6940-417c-b7d9-4859b29a5ed8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m17567/latest/" strength="2">View the Video Lecture for this Chapter</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+<section id="element-788"><title>Student Learning Outcomes</title><para id="element-864">
+By the end of this chapter, the student should be able to:
+</para>
+
+<list id="list4253">
+<item>Recognize the normal probability distribution and apply it
+appropriately.</item>
+<item>Recognize the standard normal probability distribution and apply
+it appropriately.</item>
+<item>Compare normal probabilities by converting to the standard
+normal distribution.</item>
+
+</list></section><section id="id42731425"><title>Introduction</title>
+    <para id="delete_me">The normal, a continuous distribution, is the most important of all the distributions. It is widely
+used and even more widely abused. Its graph is bell-shaped. You see the bell curve in almost
+all disciplines. Some of these include psychology, business, economics, the sciences, nursing,
+and, of course, mathematics. Some of your instructors may use the normal distribution to help
+determine your grade. Most IQ scores are normally distributed. Often real estate prices fit a
+normal distribution. The normal distribution is extremely important but it cannot be applied to
+everything in the real world.</para><para id="element-299">In this chapter, you will study the normal distribution, the standard normal, and applications
+associated with them.</para></section><section id="element-227"><title>Optional Collaborative Classroom Activity</title>
+<para id="element-450">
+Your instructor will record the heights of both men and women in your class, separately.
+Draw histograms of your data. Then draw a smooth curve through each histogram. Is each
+curve somewhat bell-shaped? Do you think that if you had recorded 200 data values for men
+and 200 for women that the curves would look bell-shaped? Calculate the mean for each data
+set. Write the means on the x-axis of the appropriate graph below the peak. Shade the
+approximate area that represents the probability that one randomly chosen male is taller than 72
+inches. Shade the approximate area that represents the probability that one randomly chosen
+female is shorter than 60 inches. If the total area under each curve is one, does either
+probability appear to be more than 0.5?
+</para><para id="element-915">The normal distribution has two parameters (two numerical descriptive measures), the
+mean (<m:math><m:mi>μ</m:mi></m:math>) and the standard deviation (<m:math><m:mi>σ</m:mi></m:math>).  If <m:math><m:mi>X</m:mi></m:math> is a quantity to be measured that has a normal distribution with mean (<m:math><m:mi>μ</m:mi></m:math>) and the standard deviation (<m:math><m:mi>σ</m:mi></m:math>), we designate this by writing </para><para id="element-48"><emphasis>NORMAL:<m:math><m:mi>X</m:mi></m:math>~<m:math><m:mi>N(μ, σ)</m:mi></m:math></emphasis></para><para id="element-825"><media id="id42732641" alt="Empty normal distribution curve."><image src="../../media/normdist_intro1.png" mime-type="image/png" print-width="3in"/></media></para><para id="element-979">The probability density function is a
+rather complicated function. <emphasis>Do not
+memorize it</emphasis>. It is not necessary.</para><para id="element-687"><m:math>
+            <m:mi>f</m:mi>
+            <m:mo>(</m:mo>
+            <m:mi>x</m:mi>
+            <m:mo>)</m:mo>
+            <m:mo>=</m:mo>
+ <m:mfrac>
+   <m:mrow>
+    <m:mn>1</m:mn>
+   </m:mrow>
+   <m:mrow>
+    <m:mi>σ</m:mi>
+    <m:mo>⋅</m:mo>
+    <m:msqrt>
+     <m:mn>2</m:mn>
+     <m:mo>⋅</m:mo>
+     <m:mi>π</m:mi>
+    </m:msqrt>
+   </m:mrow>
+ </m:mfrac>
+
+    <m:mo>⋅</m:mo>
+
+ <m:msup>
+  <m:mi>e</m:mi>
+  <m:mrow>
+   <m:mo>-</m:mo>
+    <m:mfrac>
+     <m:mn>1</m:mn>
+     <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mo>⋅</m:mo>
+    <m:msup>
+     <m:mrow>  
+     <m:mo>(</m:mo>
+     <m:mfrac> 
+      <m:mrow> 
+       <m:mi>x</m:mi>
+       <m:mo>-</m:mo>
+       <m:mi>μ</m:mi>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>σ</m:mi>
+      </m:mrow>
+     </m:mfrac>
+     <m:mo>)</m:mo>
+    </m:mrow>        
+    <m:mn>2</m:mn>
+   </m:msup>
+  </m:mrow>
+ </m:msup>
+</m:math></para><para id="element-750">The cumulative distribution function is 
+<emphasis>
+<m:math>
+<m:reln><m:lt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>X</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+</m:math>
+</emphasis>.  
+It is calculated either by a calculator or a computer or it is looked up in a table.  See the NOTE in this chapter in <emphasis>Calculation of Probabilities</emphasis>.</para><para id="element-396">The curve is symmetrical about a vertical line drawn through the mean, μ. In theory, the
+mean is the same as the median since the graph is symmetric about μ. As the notation
+indicates, the normal distribution depends only on the mean and the standard deviation.
+Since the area under the curve must equal one, a change in the standard deviation, σ, causes
+a change in the shape of the curve; the curve becomes fatter or skinnier depending on σ. A
+change in μ causes the graph to shift to the left or right. This means there are an infinite
+number of normal probability distributions. One of special interest is called the <emphasis>standard
+normal distribution</emphasis>.</para></section>   
+  </content>
+
+
+  <glossary>
+<definition id="normdist">
+    <term>Normal Distribution</term>
+    <meaning id="id42733014">
+   A continuous random variable (RV) with pdf  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>f(x)</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>σ</m:mi><m:msqrt><m:mn>2π</m:mn></m:msqrt></m:mrow></m:mfrac></m:mrow><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mi>μ</m:mi></m:mrow><m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="6pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">/</m:mo><m:msup><m:mn>2σ</m:mn><m:mstyle fontsize="6pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "pdf"= {  {1}  over  {σ sqrt {2π} } } e rSup { size 8{ -  \( x - μ \)  rSup { size 6{2} } /2σ rSup { size 6{2} } } } } {}</m:annotation></m:semantics></m:math>, where <m:math><m:mi>μ</m:mi></m:math>  is the mean of the distribution and <m:math><m:mi>σ</m:mi></m:math>  is the standard deviation. Notation: <m:math><m:mi>X</m:mi></m:math>  ~  <m:math> <m:mi>N</m:mi>
+  <m:mfenced>
+    <m:mi>μ</m:mi>
+    <m:msup>
+      <m:mi>σ</m:mi>
+      <m:mn/>
+    </m:msup>
+  </m:mfenced></m:math>. If <m:math><m:mi>μ</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:math> and <m:math><m:mi>σ</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:math>, the RV is called <emphasis>the standard normal distribution</emphasis>.
+    </meaning>
+  </definition>
+</glossary>
+</document>

@@ -1,0 +1,362 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>8.4 Calculations of Probabilities TCC</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65540</md:content-id>
+  <md:title>8.4 Calculations of Probabilities TCC</md:title>
+  <md:abstract/>
+  <md:uuid>a882c081-e5b7-4ebb-8e26-c3927a46389a</md:uuid>
+</metadata>
+
+<content>
+    <para id="delete_me">Probabilities are calculated by using technology. There are instructions in the chapter for the
+TI-83+ and TI-84 calculators.</para><note id="id1168986691838">In the Table of Contents for <emphasis>Collaborative Statistics</emphasis>, entry <emphasis>15. Tables</emphasis> has a link to a table of normal probabilities.  Use the probability tables if so desired, instead of a calculator. The tables include instructions for how to use then.</note><example id="element-375"><para id="element-437">
+ If the area to the left is 0.0228, then the area to the right is <m:math><m:mn>1</m:mn> 
+<m:mo>-</m:mo> 
+<m:mn>0.0228</m:mn>
+<m:mo>=</m:mo> 
+<m:mn>0.9772</m:mn>
+</m:math>.
+</para>
+</example><example id="element-961"><para id="element-231">
+The final exam scores in a statistics class were normally distributed with a mean
+of 63 and a standard deviation of 5.
+</para><exercise id="element-857"><problem id="id1168986723014">
+  <para id="element-415">
+    Find the probability that a randomly selected student scored more than 65 on the exam.
+  </para>
+</problem>
+
+<solution id="id1168986723026">
+  <para id="element-83">Let <m:math>
+		<m:mi>X</m:mi>
+		<m:mo>=</m:mo>
+	</m:math> a score on the final exam.
+<m:math>
+		<m:mi>X</m:mi>
+		</m:math>~<m:math>
+		<m:mi>N</m:mi>
+		<m:mo>(</m:mo>
+		<m:mn>63</m:mn>
+		<m:mo>,</m:mo>
+		<m:mn>5</m:mn>
+		<m:mo>)</m:mo>
+
+</m:math>, where <m:math>
+		<m:mi>μ</m:mi>
+		<m:mo>=</m:mo>
+		<m:mn>63</m:mn>
+</m:math> and <m:math>
+		<m:mi>σ</m:mi>
+		<m:mo>=</m:mo>
+		<m:mn>5</m:mn>
+	</m:math>
+</para><para id="element-449">Draw a graph.
+</para><para id="element-389">Then, find
+<m:math>
+<m:reln><m:gt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mn>65</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+</m:math>.</para><para id="element-294"><m:math>
+<m:reln><m:gt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mn>65</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+<m:mo>=</m:mo>
+<m:mn>0.3446</m:mn>
+</m:math>
+(calculator or computer)</para><para id="element-778"><media id="id1168988266495" alt="Normal distribution curve with values of 63 and 65. A vertical upward line extends from point 65 to the curve. The probability area from point 65 to the end of the curve is equal to 0.3446."><image src="../../media/normdist_calcprop1.png" mime-type="image/png" print-width="3in"/></media>
+</para><para id="element-45">The probability that one student scores more than 65 is 0.3446.</para><para id="element-736">Using the TI-83+ or the TI-84 calculators, the calculation is as follows. Go into
+<code>2nd DISTR</code>.</para><para id="element-862">After pressing <code>2nd DISTR</code>, press <code>2:normalcdf</code>.</para><para id="element-56">The syntax for the instructions are shown below.</para><para id="element-657">normalcdf(lower value, upper value, mean, standard deviation)
+For this problem:
+normalcdf(65,1E99,63,5) = 0.3446.
+You get 1E99 ( = <m:math><m:msup><m:mn>10</m:mn><m:mn>99</m:mn></m:msup></m:math>) by pressing <code>1</code>, the <code>EE</code> key (a 2nd key) and
+then <code>99</code>. Or, you can enter <code>10^99</code> instead. The number <m:math><m:msup><m:mn>10</m:mn><m:mn>99</m:mn></m:msup></m:math> is way
+out in the right tail of the normal curve. We are calculating the area
+between 65 and <m:math><m:msup><m:mn>10</m:mn><m:mn>99</m:mn></m:msup></m:math>. In some instances, the lower number of the area
+might be -1E99 ( = <m:math><m:msup><m:mn>-10</m:mn><m:mn>99</m:mn></m:msup></m:math>). The number <m:math><m:msup><m:mn>-10</m:mn><m:mn>99</m:mn></m:msup></m:math> is way out in the left tail
+of the normal curve.</para><note id="id1168986705026" type="Historical Note"><label>Historical Note</label>The TI probability program calculates a z-score and then the probability from the
+z-score. Before technology, the z-score was looked up in a standard normal probability table
+(because the math involved is too cumbersome) to find the probability. In this example, a standard
+normal table with area to the left of the z-score was used. You calculate the z-score and look up the area to the left.
+The probability is the area to the right.</note><para id="element-772"><m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>65</m:mn>
+<m:mo>-</m:mo>
+<m:mn>63</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>5</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>0.4</m:mn>
+<m:mspace width="20pt"/>
+</m:math>.
+Area to the left is 0.6554.
+<m:math>
+<m:reln><m:gt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mn>65</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+<m:mo>=</m:mo>
+
+<m:reln><m:gt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>z</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mn>0.4</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+<m:mo>-</m:mo>
+<m:mn>0.6554</m:mn>
+<m:mo>=</m:mo>
+<m:mn>0.3446</m:mn>
+</m:math></para></solution>
+</exercise><exercise id="element-243"><problem id="id1168986705169">
+  <para id="element-950">
+Find the probability that a randomly selected student scored less than 85.
+  </para>
+</problem>
+
+<solution id="id1168986705184">
+  <para id="element-181">
+    Draw a graph.
+  </para><para id="element-497">Then find
+<m:math>
+		<m:reln><m:lt/>
+			<m:mrow>
+				<m:mi>P</m:mi>
+				<m:mo>(</m:mo>
+				<m:mi>x</m:mi>
+			</m:mrow>
+			<m:mrow>
+				<m:mn>85</m:mn>
+				<m:mo>)</m:mo>
+			</m:mrow>
+		</m:reln>
+	</m:math>.
+Shade the graph.
+<m:math>
+		<m:mspace width="4pt"/>
+		<m:reln><m:lt/>
+			<m:mrow>
+				<m:mi>P</m:mi>
+				<m:mo>(</m:mo>
+				<m:mi>x</m:mi>
+			</m:mrow>
+			<m:mrow>
+				<m:mn>85</m:mn>
+				<m:mo>)</m:mo>
+			</m:mrow>
+		</m:reln>
+		<m:mo>=</m:mo>
+		<m:mn>1</m:mn>
+	</m:math>
+     (calculator or computer)</para><para id="element-440">The probability that one student scores less than 85 is approximately 1 (or 100%).</para><para id="element-274">The TI-instructions and answer are as follows:</para><para id="element-909">normalcdf(0,85,63,5) = 1 (rounds to 1)</para>
+</solution>
+</exercise><exercise id="element-585"><problem id="id1168986688411">
+  <para id="element-922">
+Find the 90th percentile (that is, find the score k that has 90 % of the scores below k and
+10% of the scores above k).
+  </para>
+</problem>
+
+<solution id="id1168986688427">
+  <para id="element-815">
+    Find the 90th percentile. For each problem or part of a problem, draw a new graph. Draw
+the x-axis. Shade the area that corresponds to the 90th percentile.
+  </para><para id="element-582"><emphasis>Let <m:math>
+<m:mi>k</m:mi>
+</m:math> = the 90th percentile.</emphasis> 
+<m:math>
+<m:mi>k</m:mi>
+</m:math> is located on the x-axis.
+<m:math>
+<m:reln><m:lt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>k</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+</m:math> is the area to the left of
+<m:math>
+<m:mi>k</m:mi>
+</m:math>. The 90th percentile <m:math>
+<m:mi>k</m:mi>
+</m:math> separates the exam scores into those that are the same or lower
+than <m:math>
+<m:mi>k</m:mi>
+</m:math> and those that are the same or higher. Ninety percent of the test scores are the
+same or lower than <m:math>
+<m:mi>k</m:mi>
+</m:math> and 10% are the same or higher. <emphasis><m:math>
+<m:mi>k</m:mi>
+</m:math></emphasis> is often called a <term>critical value</term>.</para><para id="element-58"><m:math>
+<m:mi>k</m:mi>
+<m:mo>=</m:mo>
+<m:mn>69.4</m:mn>
+</m:math>
+(calculator or computer)</para><para id="element-147"><media id="id1168986688569" alt="Normal distribution curve with values of 63 and x on the x-axis. The x-axis is equal to X. A vertical upward line extends from point x to the curve. The probability area, occurring from the beginning of the curve to point x, is equal to 0.90."><image src="../../media/normdist_calcprop2.png" mime-type="image/png" print-width="3in"/></media></para><para id="element-488">The 90th percentile is 69.4. This means that 90% of the test scores fall at
+or below 69.4 and 10% fall at or above.
+For the TI-83+ or TI-84 calculators, use <code>invNorm</code> in <code>2nd DISTR</code>.
+invNorm(area to the left, mean, standard deviation)
+For this problem,
+invNorm(0.90,63,5) = 69.4</para></solution>
+</exercise><exercise id="element-322"><problem id="id1168986735971">
+  <para id="element-748">
+  Find the 70th percentile (that is, find the score k such that 70% of scores are below k and
+30% of the scores are above k).
+  </para>
+</problem>
+
+<solution id="id1168986735987">
+  <para id="element-743">
+   Find the 70th percentile.
+  </para><para id="element-339">Draw a new graph and label it appropriately. 
+<m:math>
+<m:mi>k</m:mi>
+<m:mo>=</m:mo>
+<m:mn>65.6</m:mn>
+</m:math></para><para id="element-886">The 70th percentile is 65.6. This means that 70% of the test scores fall at or
+below 65.5 and 30% fall at or above.</para><para id="element-71"><emphasis>invNorm(0.70,63,5) = 65.6</emphasis></para></solution>
+</exercise>
+</example><example id="element-32"><para id="element-190">A computer is used for office work at home, research, communication, personal finances, education,
+entertainment, social networking and a myriad of other things. Suppose that the average number of hours a household
+personal computer is used for entertainment is 2 hours per day. Assume the times for
+entertainment are normally distributed and the standard deviation for the times is half an hour.
+</para><exercise id="element-496"><problem id="id1168986736072">
+  <para id="element-723">
+Find the probability that a household personal computer is used between 1.8 and 2.75 hours
+per day.
+  </para>
+</problem>
+
+<solution id="id1168986736088">
+  <para id="element-150">Let 
+<m:math><m:mi>X</m:mi></m:math> = the amount of time (in hours) a household personal computer is used for entertainment.
+<m:math>
+		<m:mi>x</m:mi>
+		</m:math>~<m:math>
+		<m:mi>N</m:mi>
+		<m:mo>(</m:mo>
+		<m:mn>2</m:mn>
+		<m:mo>,</m:mo>
+		<m:mn>0.5</m:mn>
+		<m:mo>)</m:mo>
+	</m:math>
+where <m:math><m:mi>μ</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math> and 
+<m:math><m:mi>σ</m:mi><m:mo>=</m:mo><m:mn>0.5</m:mn></m:math>.
+  </para><para id="element-923">Find <m:math>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mn>1.8</m:mn>
+<m:mo>&lt;</m:mo>
+<m:mi>x</m:mi>
+<m:mo>&lt;</m:mo>
+<m:mn>2.75</m:mn>
+<m:mo>)</m:mo>
+</m:math>. </para><para id="element-618">The probability for which you are
+looking is the area <emphasis>between</emphasis> 
+
+
+<m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1.8</m:mn>
+</m:math>
+and <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>2.75</m:mn>
+<m:mo>.</m:mo>
+<m:mspace width="15pt"/> 
+<m:reln><m:lt/>
+<m:reln><m:lt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mn>1.8</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mi>x</m:mi>
+</m:mrow>
+</m:reln>
+<m:mrow>
+<m:mn>2.75</m:mn>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+<m:mo>=</m:mo>
+<m:mn>0.5886</m:mn>
+</m:math></para><para id="element-319"><media id="id1168986736293" alt="Normal distribution curve with values 1.8, 2, and 2.75 on the x-axis. The x-axis is equal to X. Vertical upward lines extend upward from 1.8 and 2.75 to the curve."><image src="../../media/normdist_calcprop3.png" mime-type="image/png" print-width="3in"/></media></para><para id="element-424">normalcdf(1.8,2.75,2,0.5) = 0.5886</para><para id="element-292">The probability that a household personal computer is used between 1.8 and 2.75 hours
+per day for entertainment is 0.5886.</para>
+</solution>
+</exercise><exercise id="element-423"><problem id="id1168986736344">
+  <para id="element-72">
+   Find the maximum number of hours per day that the bottom quartile of households use a
+personal computer for entertainment.
+  </para>
+</problem>
+
+<solution id="id1168986736360">
+  <para id="element-958">To find the maximum number of hours per day that the bottom quartile of
+households uses a personal computer for entertainment, <emphasis>find the 25th percentile, <m:math><m:mi>k</m:mi></m:math></emphasis>,
+where 
+<m:math>
+<m:reln><m:lt/>
+<m:mrow>
+<m:mi>P</m:mi>
+<m:mo>(</m:mo>
+<m:mi>x</m:mi>
+</m:mrow>
+<m:mrow> 
+<m:mi>k</m:mi>
+<m:mo>)</m:mo>
+</m:mrow>
+</m:reln>
+<m:mo>=</m:mo>
+<m:mn>0.25</m:mn>
+</m:math>.
+  </para><para id="element-754"><media id="id1168986736428" alt="Normal distribution curve with value k on the x-axis. The probability area from k to the end of the curve is equal to 0.75 and the rest of the area is equal to 0.25."><image src="../../media/normdist_calcprop4.png" mime-type="image/png" print-width="3in"/></media></para><para id="element-660">invNorm(0.25,2,.5) = 1.66</para><para id="element-344">The maximum number of hours per day that the bottom quartile of households uses a
+personal computer for entertainment is 1.66 hours.</para></solution>
+</exercise>
+</example>   
+  </content>
+  
+</document>

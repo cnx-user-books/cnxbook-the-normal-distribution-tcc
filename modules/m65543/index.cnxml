@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="review"> 
+  <title>8.7 Normal Distribution: Review TCC</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65543</md:content-id>
+  <md:title>8.7 Normal Distribution: Review TCC</md:title>
+  <md:abstract/>
+  <md:uuid>a7024555-34df-4fda-888c-94b79e9de5dd</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="The Normal Distribution _review.pdf" strength="3">Download handout (.pdf)</link>
+      <link url="The Normal Distribution (review).doc" strength="3">Download handout (.doc)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="delete_me"><emphasis>The next two questions refer to:  </emphasis>
+	<m:math>
+<m:mi>X</m:mi>
+</m:math>
+~
+<m:math>
+<m:mi>U</m:mi>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>,</m:mo>
+<m:mn>13</m:mn>
+<m:mo>)</m:mo>
+</m:math></para><exercise id="element-498"><problem id="id4365662">
+  <para id="element-211">
+    Explain which of the following are false and which are true.
+  </para><list id="element-115" list-type="labeled-item"><item><label>a</label> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f \( x \) = {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">≤</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">≤</m:mo><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 &lt;= x &lt;= "13"} {}</m:annotation></m:semantics></m:math></item>
+<item><label>b</label> There is no mode.</item>
+<item><label>c</label> The median is less than the mean.</item>
+<item><label>d</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mi>X</m:mi>
+                    <m:mo stretchy="false">&gt;</m:mo>
+                    <m:mtext>10</m:mtext>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>P</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mi>X</m:mi>
+                    <m:mo stretchy="false">≤</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{P \( X&gt;"10" \) =P \( X &lt;= 6 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item></list>
+</problem>
+
+<solution id="id5732666">
+  <list id="element-495" list-type="labeled-item"><item><label>a</label> True</item>
+<item><label>b</label> True</item>
+<item><label>c</label> False – the median and the mean are the same for this symmetric distribution</item>
+<item><label>d</label> True</item></list>
+</solution>
+</exercise><exercise id="element-198"><problem id="id4369696">
+  <para id="element-923">
+ Calculate:
+  </para><list id="element-786" list-type="labeled-item"><item><label>a</label> Mean</item>
+<item><label>b</label> Median</item>
+<item><label>c</label> 65th percentile.</item>
+</list>
+<media id="id4486576" alt="Horizontal boxplot with first whisker at 0 to 2, box from 2 to 5, line at 4, and second whisker from 5 to 7." display="block"><image src="../../media/2c.png" mime-type="image/png" print-width="4in"/></media>
+</problem>
+
+<solution id="id3313824">
+  <list id="element-112" list-type="labeled-item"><item><label>a</label> 8</item>
+<item><label>b</label> 8</item>
+<item><label>c</label> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>X</m:mi><m:mo stretchy="false">&lt;</m:mo><m:mi>k</m:mi></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>65</m:mtext><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">∗</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( X&lt;k \) =0 "." "65"= \( k - 3 \)  *  \(  {  {1}  over  {"10"} }  \) } {}</m:annotation></m:semantics></m:math>. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k=9 "." 5} {}</m:annotation></m:semantics></m:math></item>
+</list>
+</solution>
+</exercise><exercise id="element-10"><problem id="id4184037">
+  <para id="element-972">
+  Which of the following is true for the above box plot?
+  </para><list id="element-33" list-type="labeled-item"><item><label>a</label> 25% of the data are at most 5.</item>
+<item><label>b</label> There is about the same amount of data from 4 – 5 as there is from 5 – 7.</item>
+<item><label>c</label> There are no data values of 3.</item>
+<item><label>d</label> 50% of the data are 4.</item></list>
+</problem>
+
+<solution id="id14109515">
+  <list id="element-931" list-type="labeled-item"><item><label>a</label> False – 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> of the data are at most 5</item>
+<item><label>b</label> True – each quartile has 25% of the data</item>
+<item><label>c</label> False – that is unknown</item>
+<item><label>d</label> False – 50% of the data are 4 or less</item></list>
+</solution>
+</exercise><exercise id="element-384"><problem id="id3374412">
+  <para id="element-259">If 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mi>G</m:mi><m:mo stretchy="false">∣</m:mo><m:mi>H</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mi>P</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>G</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( G \lline H \) =P \( G \) } {}</m:annotation></m:semantics></m:math>, then which of the following is correct?</para><list id="element-916" list-type="labeled-item"><item><label>A</label> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>G</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H} {}</m:annotation></m:semantics></m:math> are mutually exclusive events.</item>
+<item><label>B</label> 
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>G</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>P</m:mi>
+                  </m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mi>H</m:mi>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{P \( G \) =P \( H \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+<item><label>C</label> Knowing that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H} {}</m:annotation></m:semantics></m:math> has occurred will affect the chance that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>G</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation></m:semantics></m:math> will happen.</item>
+<item><label>D</label> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>G</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H} {}</m:annotation></m:semantics></m:math> are independent events.</item></list>
+</problem>
+
+<solution id="id5369268">
+  <para id="element-255">D</para>
+</solution>
+</exercise><exercise id="element-9"><problem id="id4349644">
+  <para id="element-935">
+If 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mi>J</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( J \) =0 "." 3} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mi>K</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P \( K \) =0 "." 6} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>J</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K} {}</m:annotation></m:semantics></m:math> are independent events, then explain which are correct and which are incorrect.
+  </para><list id="element-398" list-type="labeled-item"><item><label>A</label>
+<m:math><m:mrow><m:mi>P</m:mi><m:mo>(</m:mo>
+<m:mi>J</m:mi>
+
+<m:mi>and</m:mi>
+
+<m:mi>K</m:mi><m:mo>)</m:mo></m:mrow></m:math>
+<m:math><m:mrow>
+<m:mo>=</m:mo>
+<m:mn>0</m:mn></m:mrow></m:math>
+</item>
+
+<item><label>B</label>
+<m:math><m:mrow><m:mi>P</m:mi><m:mo>(</m:mo>
+<m:mi>J</m:mi>
+ <m:mi>or</m:mi> 
+<m:mi>K</m:mi><m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>0.9</m:mn></m:mrow></m:math>
+</item>
+
+<item><label>C</label>
+<m:math><m:mrow><m:mi>P</m:mi><m:mo>(</m:mo>
+<m:mi>J</m:mi>
+ <m:mi>or</m:mi> 
+<m:mi>K</m:mi><m:mo>)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>0.72</m:mn></m:mrow></m:math>
+</item>
+
+<item><label>D</label>
+<m:math><m:mrow><m:mi>P</m:mi>						<m:mo>(</m:mo>					<m:mi>J</m:mi>								<m:mo>)</m:mo>
+								<m:mo>≠</m:mo>
+									<m:mi>P</m:mi>							<m:mo>(</m:mo><m:mi>J</m:mi>
+<m:mo>∣</m:mo><m:mi>K</m:mi><m:mo>)</m:mo>
+</m:mrow></m:math>
+</item>
+
+</list>
+</problem>
+
+<solution id="id3451212">
+  <list id="element-367" list-type="labeled-item"><item><label>A</label>
+False - J and K are independent so they are not mutually exclusive which would imply dependency (meaning P(J and K) is not 0).
+</item>
+
+<item><label>B</label>
+False - see answer C.
+</item>
+
+<item><label>C</label>
+True - P(J or K) = P(J) + P(K) - P(J and K) 
+= P(J) + P(K) - P(J)P(K) 
+= 0.3 + 0.6 - (0.3)(0.6) = 0.72.  
+Note that P(J and K) = P(J)P(K) because J and K are independent.
+</item>
+
+<item><label>D</label>
+False - J and K are independent so P(J) = P(J|K).
+</item>
+</list>
+</solution>
+</exercise>   
+  </content>
+  
+</document>

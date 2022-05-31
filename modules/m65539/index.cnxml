@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>8.3 Normal Distribution: Z-scores TCC</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65539</md:content-id>
+  <md:title>8.3 Normal Distribution: Z-scores TCC</md:title>
+  <md:abstract/>
+  <md:uuid>ab58265b-7266-4c0e-b89e-52a293c4a5a7</md:uuid>
+</metadata>
+
+<content>
+    <para id="delete_me">If <m:math><m:mi>X</m:mi></m:math> is a normally distributed random variable and <m:math><m:mi>X</m:mi></m:math>~<m:math><m:mi>N(μ, σ)</m:mi></m:math>, then the z-score is:</para><equation id="element-521"><m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mi>μ</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>σ</m:mi>
+</m:mrow>
+</m:mfrac>
+</m:math>
+</equation><para id="element-272"><emphasis>The z-score tells you how many standard deviations that the value <m:math><m:mi>x</m:mi></m:math> is above (to the
+right of) or below (to the left of) the mean, <m:math><m:mi>μ</m:mi></m:math>.</emphasis> Values of <m:math><m:mi>x</m:mi></m:math> that are larger than the mean
+have positive z-scores and values of <m:math><m:mi>x</m:mi></m:math> that are smaller than the mean have negative z-scores. If <m:math><m:mi>x</m:mi></m:math> equals the mean, then <m:math><m:mi>x</m:mi></m:math> has a z-score of <m:math><m:mn>0</m:mn></m:math>.</para><example id="element-49"><para id="element-161">Suppose <m:math><m:mi>X</m:mi></m:math> ~ <m:math><m:mi>N(5, 6)</m:mi></m:math>. This says that <m:math><m:mi>X</m:mi></m:math> is a normally distributed random
+variable with mean <m:math><m:mi>μ = 5</m:mi></m:math> and standard deviation <m:math><m:mi>σ = 6</m:mi></m:math>. Suppose <m:math><m:mi>x = 17</m:mi></m:math>. Then:
+</para><equation id="element-160"><m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mi>μ</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>σ</m:mi>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>17</m:mn>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>6</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math></equation><para id="element-935">This means that <m:math><m:mi>x = 17</m:mi></m:math> is <emphasis>2 standard deviations</emphasis> <m:math><m:mi>(2σ)</m:mi></m:math>
+above or to the right of the mean
+<m:math><m:mi>μ = 5</m:mi></m:math>. The standard deviation is <m:math><m:mi>σ = 6</m:mi></m:math>.</para><para id="element-314">Notice that:</para><equation id="element-668"><m:math>
+		<m:mn>5</m:mn>
+		<m:mo>+</m:mo>
+		<m:mn>2</m:mn>
+		<m:mo>⋅</m:mo>
+		<m:mn>6</m:mn>
+		<m:mo>=</m:mo>
+		<m:mn>17</m:mn>
+		<m:mspace width="20pt"/>
+		<m:mtext>(The pattern is</m:mtext>
+		<m:mspace width="5pt"/>
+		<m:mi>μ</m:mi>
+		<m:mo>+</m:mo>
+		<m:mi>z</m:mi>
+		<m:mi>σ</m:mi>
+		<m:mo>=</m:mo>
+		<m:mi>x</m:mi>
+		<m:mo>.</m:mo>
+		<m:mtext>)</m:mtext>
+	</m:math>
+</equation><para id="element-330">Now suppose 
+<m:math><m:mi>x=1</m:mi></m:math>. Then:</para><equation id="element-870"><m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mi>μ</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>σ</m:mi>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>6</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mo>-</m:mo>
+<m:mn>0.67</m:mn>
+<m:mspace width="20pt"/>
+<m:mtext>  (rounded to two decimal places)</m:mtext>
+</m:math>
+</equation><para id="element-468"><emphasis> This means that <m:math><m:mi>x = 1</m:mi></m:math> is 0.67 standard deviations <m:math><m:mi>(- 0.67σ)</m:mi></m:math> below or to the left of
+the mean <m:math><m:mi>μ = 5</m:mi></m:math>. Notice that:</emphasis></para><para id="element-469"><m:math>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mn>-0.67</m:mn>
+<m:mo>)</m:mo>
+<m:mo>(</m:mo>
+<m:mn>6</m:mn>
+<m:mo>)</m:mo>
+</m:math>
+is approximately equal to 1
+<m:math>
+<m:mspace width="20pt"/>
+</m:math>
+(This has the pattern
+<m:math>
+<m:mi>μ</m:mi>
+<m:mo>+</m:mo>
+<m:mo>(</m:mo>
+<m:mn>-0.67</m:mn>
+<m:mo>)</m:mo>
+<m:mi>σ</m:mi>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math>
+)
+</para><para id="element-588">Summarizing, when <m:math><m:mi>z</m:mi></m:math> is positive, <m:math><m:mi>x</m:mi></m:math> is above or to the right of <m:math><m:mi>μ</m:mi></m:math> and when <m:math><m:mi>z</m:mi></m:math> is negative, <m:math><m:mi>x</m:mi></m:math> is to
+the left of or below <m:math><m:mi>μ</m:mi></m:math>.</para>
+</example><example id="element-305"><para id="element-979">Some doctors believe that a person can lose 5 pounds, on the average, in a
+month by reducing his/her fat intake and by exercising consistently. Suppose weight loss has a
+normal distribution. Let <m:math><m:mi>X</m:mi></m:math> = the amount of weight lost (in pounds) by a person in a month.
+Use a standard deviation of 2 pounds. <m:math><m:mi>X</m:mi></m:math>~<m:math><m:mi>N(5, 2)</m:mi></m:math>. Fill in the blanks.
+</para><exercise id="element-984">
+<problem id="id1167373890535">
+  <para id="element-658">
+Suppose a person <emphasis>lost</emphasis> 10 pounds in a month. The z-score when <m:math><m:mi>x = 10</m:mi></m:math> pounds is <m:math><m:mi>z = 2.5</m:mi></m:math>
+(verify). This z-score tells you that <m:math><m:mi>x = 10</m:mi></m:math> is ________ standard deviations to the ________
+(right or left) of the mean _____ (What is the mean?).
+  </para>
+</problem>
+
+<solution id="id1167373888670" print-placement="end">
+  <para id="element-603">This z-score tells you that <m:math><m:mi>x = 10</m:mi></m:math> is <emphasis>2.5</emphasis> standard deviations to the <emphasis>right</emphasis>
+ of the mean <emphasis>5</emphasis>.
+  </para>
+</solution>
+</exercise><exercise id="element-369">
+<problem id="id1167373888705">
+  <para id="element-195">
+Suppose a person <emphasis>gained</emphasis> 3 pounds (a negative weight loss). Then <m:math><m:mi>z</m:mi></m:math> = __________. This
+z-score tells you that <m:math><m:mi>x = -3</m:mi></m:math> is ________ standard deviations to the __________ (right or left)
+of the mean.
+  </para>
+</problem>
+
+<solution id="id1167373884020" print-placement="end">
+  <para id="element-639">
+<m:math><m:mi>z</m:mi></m:math> = <emphasis>-4</emphasis>. This
+z-score tells you that <m:math><m:mi>x = -3</m:mi></m:math> is <emphasis>4</emphasis> standard deviations to the <emphasis>left</emphasis>
+of the mean.
+  </para>
+</solution>
+</exercise><para id="element-137">Suppose the random variables <m:math><m:mi>X</m:mi></m:math> and <m:math><m:mi>Y</m:mi></m:math> have the following normal distributions:
+<m:math><m:mi>X</m:mi></m:math> ~<m:math><m:mi> N(5, 6)</m:mi></m:math> and <m:math><m:mi>Y ~ N(2, 1)</m:mi></m:math>. If <m:math><m:mi>x = 17</m:mi></m:math>, then <m:math><m:mi>z</m:mi><m:mo> = </m:mo><m:mn>2</m:mn></m:math>. (This was previously shown.)
+If <m:math><m:mi>y = 4</m:mi></m:math>, what is <m:math><m:mi>z</m:mi></m:math>?</para><equation id="element-958"><m:math>
+<m:mi>z</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mi>y</m:mi>
+<m:mo>-</m:mo>
+<m:mi>μ</m:mi>
+</m:mrow>
+<m:mrow>
+<m:mi>σ</m:mi>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>4</m:mn>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+<m:mspace width="20pt"/>
+<m:mtext>where μ=2 and σ=1.</m:mtext>
+</m:math></equation><para id="element-291">The z-score for <m:math><m:mi>y = 4</m:mi></m:math> is <m:math><m:mi>z = 2</m:mi></m:math>. This means that 4 is <m:math><m:mi>z = 2</m:mi></m:math> standard deviations to the right of the
+mean. Therefore, <m:math><m:mi>x = 17</m:mi></m:math> and <m:math><m:mi>y = 4</m:mi></m:math> are both 2 (of <emphasis>their</emphasis>) standard deviations to the right of
+<emphasis>their</emphasis> respective means.</para><para id="element-735"><emphasis>The z-score allows us to compare data that are scaled differently.</emphasis> To understand the
+concept, suppose 
+
+<m:math><m:mi>X</m:mi></m:math> ~<m:math><m:mi> N(5, 6)</m:mi></m:math> represents weight gains for one group of people who are trying
+to gain weight in a 6 week period and <m:math><m:mi>Y</m:mi></m:math> ~<m:math><m:mi> N(2, 1)</m:mi></m:math> measures the same weight gain for a
+second group of people. A negative weight gain would be a weight loss.
+Since <m:math><m:mi>x = 17</m:mi></m:math> and <m:math><m:mi>y = 4</m:mi></m:math> are each 2 standard deviations to the right of their means, they
+represent the same weight gain <emphasis>relative to their means</emphasis>.</para></example><para id="eip-113"><title>The Empirical Rule</title>If <m:math><m:mi>X</m:mi></m:math> is a random variable and has a normal distribution with mean <m:math><m:mi>µ</m:mi></m:math> and standard deviation <m:math><m:mi>σ</m:mi></m:math> then the <emphasis>Empirical Rule</emphasis> says
+(See the figure below)
+<list id="eip-id1171176935204"><item>About 68.27% of the <m:math><m:mi>x</m:mi></m:math> values lie between  -1<m:math><m:mi>σ</m:mi></m:math> and +1<m:math><m:mi>σ</m:mi></m:math> of the mean <m:math><m:mi>µ</m:mi></m:math> (within 1 standard deviation of the mean).</item>  
+<item>About  95.45% of the <m:math><m:mi>x</m:mi></m:math> values lie between -2<m:math><m:mi>σ</m:mi></m:math> and +2<m:math><m:mi>σ</m:mi></m:math> of the mean <m:math><m:mi>µ</m:mi></m:math> (within 2 standard deviations of the mean).</item>
+<item>About 99.73% of the <m:math><m:mi>x</m:mi></m:math> values lie between -3<m:math><m:mi>σ</m:mi></m:math> and +3<m:math><m:mi>σ</m:mi></m:math> of the mean <m:math><m:mi>µ</m:mi></m:math> (within 3 standard deviations of the mean).  Notice that almost all the <m:math><m:mi>x</m:mi></m:math> values lie within 3 standard deviations of the mean.</item>
+<item>The z-scores for +1<m:math><m:mi>σ</m:mi></m:math>  and –1<m:math><m:mi>σ</m:mi></m:math> are +1 and -1, respectively.</item>  
+
+<item>The z-scores for +2<m:math><m:mi>σ</m:mi></m:math>  and –2<m:math><m:mi>σ</m:mi></m:math> are +2 and -2, respectively.</item>  
+
+<item>The z-scores for +3<m:math><m:mi>σ</m:mi></m:math>  and –3<m:math><m:mi>σ</m:mi></m:math> are +3 and -3 respectively.</item>
+</list>
+
+<media id="empir_rule" alt="Empirical Rule">
+	   
+  <image mime-type="image/png" src="../../media/empir_1.png"/>
+		 
+</media>
+<newline/>
+
+The Empirical Rule is also known as the 68-95-99.7 Rule.</para><example id="eip-980"><para id="eip-692">Suppose <m:math><m:mi>X</m:mi></m:math> has a normal distribution with mean 50 and standard deviation 6.
+<list id="eip-id1168769509491"><item>About 68.27% of the <m:math><m:mi>x</m:mi></m:math> values  lie between -1<m:math><m:mi>σ</m:mi></m:math> = (-1)(6) = -6 and 1<m:math><m:mi>σ</m:mi></m:math> = (1)(6) = 6 of the mean 50. The values 50 - 6 = 44 and 50 + 6 = 56 are within 1 standard deviation of the mean 50. The z-scores are -1 and +1 for 44 and 56, respectively.</item>
+
+<item>About 95.45% of the <m:math><m:mi>x</m:mi></m:math> values  lie between -2<m:math><m:mi>σ</m:mi></m:math> = (-2)(6) = -12 and 2<m:math><m:mi>σ</m:mi></m:math> = (2)(6) = 12 of the mean 50. The values 50 - 12 = 38 and 50 + 12 = 62 are within 2 standard deviations of the mean 50. The z-scores are -2 and 2 for 38 and 62, respectively.</item>
+
+<item>About 99.73% of the <m:math><m:mi>x</m:mi></m:math> values  lie between -3<m:math><m:mi>σ</m:mi></m:math> = (-3)(6) = -18 and 3<m:math><m:mi>σ</m:mi></m:math> = (3)(6) = 18 of the mean 50. The values 50 - 18 = 32 and 50 + 18 = 68 are within 3 standard deviations of the mean 50. The z-scores are -3 and +3 for 32 and 68, respectively.</item>
+</list></para></example></content>
+  
+</document>
